@@ -1,1 +1,2 @@
-# AZSIIPR1-Stelmach
+# Ctelmach-Nikita-Egenevich-prz-1
+Автор: студент РТУ МИРЭА группы ББМО-02-22 Стельмах Никита Евгеньевич
